@@ -36,4 +36,4 @@ The simulator explores configurations with BFS:
 
 For step-by-step playback, one BFS-derived path is shown in the log while the UI also shows when the current step has multiple valid outgoing transitions.
 
-Project Deployed Link: <a href="https://tafl-pda-visualiser.vercel.app/">https://tafl-pda-visualiser.vercel.app/
+Project Deployed Link: [https://tafl-pda-visualiser.vercel.app/](https://tafl-pda-visualiser.vercel.app/)
