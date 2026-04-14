@@ -35,3 +35,5 @@ The simulator explores configurations with BFS:
 - hard cap at 10,000 configurations prevents infinite epsilon cycles
 
 For step-by-step playback, one BFS-derived path is shown in the log while the UI also shows when the current step has multiple valid outgoing transitions.
+
+Project Deployed Link: <a href="https://tafl-pda-visualiser.vercel.app/">https://tafl-pda-visualiser.vercel.app/
